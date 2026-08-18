@@ -1,0 +1,14 @@
+{
+  "game_version": "1.26.2",
+  "forge_url": "https://твои-сайт.ru/files/forge-1.26.2.jar",
+  "mods": [
+    {
+      "name": "jei-1.26.2.jar",
+      "url": "https://твои-сайт.ru/mods/jei-1.26.2.jar"
+    },
+    {
+      "name": "optifine.jar",
+      "url": "https://твои-сайт.ru/mods/optifine.jar"
+    }
+  ]
+}
